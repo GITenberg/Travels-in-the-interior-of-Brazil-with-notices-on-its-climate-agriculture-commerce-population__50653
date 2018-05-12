@@ -1,10 +1,16 @@
 _repo: Travels-in-the-interior-of-Brazil-with-notices-on-its-climate-agriculture-commerce-population__50653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50653-h/images/cover.jpg
 creator:
   author:
     agent_name: Mawe, John
     gutenberg_agent_id: '46018'
     url: http://www.gutenberg.org/2009/agents/46018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50653#Travels-in-the-interior-of-Brazil-with-notices-on-its-climate-agriculture-commerce-population_
 gutenberg_issued: '2015-12-09'
 gutenberg_type: Text
 identifiers:
